@@ -1405,3 +1405,4 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.11.25-17.11.22:040][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.451669
 [2025.11.25-17.11.22:042][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1416957435
 [2025.11.25-17.11.22:042][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.451669, Update Interval: 313.077789
+[2025.11.25-17.12.14:526][770]LogDerivedDataCache: C:/Users/ruhle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
